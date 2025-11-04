@@ -10,4 +10,3 @@ fun main(args: Array<String>) {
 	runApplication<HarbourSpaceCoffeeApplication>(*args)
 }
 
-//test
